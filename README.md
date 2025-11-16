@@ -1,7 +1,5 @@
 # Visual Duplicate Refactor
 
-# Project Name
-
 Analyze images visually to find duplicate or highly similar files.
 
 ## Table of Contents
@@ -15,8 +13,8 @@ Analyze images visually to find duplicate or highly similar files.
 - Description: Visually compare images to identify duplicates.
 
 ## Installation
-python3 -m pip install --upgrade pip
-
+- python3 -m pip install Pillow
+    
 ### Prerequisites
 - Python 3.8+
 - Pip
@@ -26,3 +24,8 @@ python3 -m pip install --upgrade pip
    ```bash
    git clone https://github.com/UdaraJayawardena/visual_duplicate_refactor.git
    cd visual_duplicate_refactor
+
+## Usage
+1. Run the Project
+    ```bash
+   python image_duplicate_refactor.py
