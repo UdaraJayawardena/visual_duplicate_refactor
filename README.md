@@ -9,12 +9,6 @@ Analyze images visually to find duplicate or highly similar files.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
-- Description: Visually compare images to identify duplicates.
-
-## Installation
-- python3 -m pip install Pillow
-    
 ### Prerequisites
 - Python 3.8+
 - Pip
@@ -25,6 +19,12 @@ Analyze images visually to find duplicate or highly similar files.
    git clone https://github.com/UdaraJayawardena/visual_duplicate_refactor.git
    cd visual_duplicate_refactor
 
+## Features
+- Description: Visually compare images to identify duplicates.
+
+## Installation
+- python3 -m pip install Pillow
+    
 ## Usage
 1. Run the Project
     ```bash
